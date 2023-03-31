@@ -1,0 +1,24 @@
+﻿生成启动时间为 2023/3/31 11:19:45。
+     1>项目“C:\Users\81228\Documents\Visual Studio 2015\Projects\OpenGL_3D\OpenGLDrawing\OpenGLDrawing.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\OpenGLDrawing.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OpenGLDrawing.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt MainFrm.cpp OpenGLDrawing.cpp OpenGLDrawingDoc.cpp OpenGLDrawingView.cpp
+         正在跳过...(未检测到相关更改)
+         OpenGLDrawingView.cpp
+         OpenGLDrawingDoc.cpp
+         OpenGLDrawing.cpp
+         MainFrm.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\81228\Documents\Visual Studio 2015\Projects\OpenGL_3D\Debug\OpenGLDrawing.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\81228\Documents\Visual Studio 2015\Projects\OpenGL_3D\Debug\OpenGLDrawing.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\81228\Documents\Visual Studio 2015\Projects\OpenGL_3D\Debug\OpenGLDrawing.lib" /MACHINE:X86 Debug\OpenGLDrawing.res
+         Debug\MainFrm.obj
+         Debug\OpenGLDrawing.obj
+         Debug\OpenGLDrawingDoc.obj
+         Debug\OpenGLDrawingView.obj
+         Debug\stdafx.obj
+         OpenGLDrawing.vcxproj -> C:\Users\81228\Documents\Visual Studio 2015\Projects\OpenGL_3D\Debug\OpenGLDrawing.exe
+     1>已完成生成项目“C:\Users\81228\Documents\Visual Studio 2015\Projects\OpenGL_3D\OpenGLDrawing\OpenGLDrawing.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.93
